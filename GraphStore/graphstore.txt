@@ -1,0 +1,13 @@
+Ivan 1 4
+Nodes: node1 node2 node3 node5
+Adjanceciesnode1: 2 node2 1 node3 5
+Adjanceciesnode2: 1 node3 8
+Adjanceciesnode3: 0
+Adjanceciesnode5: 0
+Pesho 0 5
+Nodes: mode1 mode2 mode3 mode4 mode5
+Adjanceciesmode1: 2 mode2 1 mode2 1
+Adjanceciesmode2: 3 mode1 1 mode1 1 mode4 100
+Adjanceciesmode3: 0
+Adjanceciesmode4: 1 mode2 100
+Adjanceciesmode5: 0
